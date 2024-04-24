@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "chance": "^1.1.11",
-    "luxon": "^3.4.4"
+    "luxon": "^3.4.4",
+    "npx": "^10.2.2"
   },
   "devDependencies": {
     "@types/chance": "^1.1.6",
